@@ -1,2 +1,4 @@
-#Git Basics Lab 
-This Project is used to Practice Git
+## What is a pull request?
+
+A pull request proposes changes from one branch to another.
+It lets people review the changes before they are merged into main.
